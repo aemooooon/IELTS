@@ -94,7 +94,14 @@ Cost an arm and a leg 卖肾才买的起
 * greener pastures 新天地
 * Commit a crime 犯罪
 * Blockbusing movie 一鸣惊人 非常成功
-* 
+* Stunningly beautiful 巨美
+* Smash hit 巨大成功
+
+* I am not all that into ...
+* I can not stand...
+* I am sick and tired of...
+* Sth. is not my cup of tea.
+* I do not go much on Sth.
 
 ### Absorb
 ```
@@ -103,6 +110,48 @@ Cost an arm and a leg 卖肾才买的起
 3. (attract) attention
 4. immigrants
 ```
+
+### Happy
+* Overjoyed
+* upset
+* annoyed
+* pleased
+* depressed
+* irritated
+* delighted
+* deflated
+* Be over the moon
+* Be down in the dumps
+* Be on cloud nine
+* Get on my nerves
+* Feel nothing better to do.
+* Drive me mad/crazy
+* feel bored to death/tears
+
+### Intersting
+* engrossing
+* fascinating
+* captivating
+* riveting
+* enterlaining
+
+* Dull
+* Tedious
+* Dreary
+* Uninspiring
+
+### Different ways of expressing like
+* Be fond of...
+* Be into...
+* Be a fan of...
+* Have a penchant for...
+* Be partial to...
+* Prefer to...
+* Dig
+* Adore
+* my go-to ~first choice
+
+
 
 ```
 Major
@@ -119,6 +168,12 @@ Koi  /kɔɪ/ 锦鲤
 * On a regular basis
 * Once in a blue moon
 * Seldom, rarely, hardly ever
+* I am overwhelmed.
+* I am in the middle of Sth.
+* Pass the exam with flying colors
+* Bomb the exam
+* Be swamped with my studies/work
+* Hit the books
 
 ### Drive n. 路
 * Queen's drive
