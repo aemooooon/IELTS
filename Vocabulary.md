@@ -62,3 +62,34 @@ Pricy
 Cost an arm and a leg 卖肾才买的起
 It's raining cats and dogs 雨很大
 ```
+
+We are on the same wavelength
+
+We are like two peas in a pod
+
+You can not be/sit on the fence.
+
+This decision is a no-brainer.
+
+I have mixedfeelings about...
+
+When it comes to... 到那个时候
+
+As for... 至于
+
+Regarding... 关于...
+
+Regardless of... 不管，无论
+
+In spite of/despite... 尽管，虽然
+
+In terms of... 就……而言
+
+
+> Absorb
+```
+1. heat, wate
+2. (acquire) knowledge
+3. (attract) attention
+4. immigrants
+```
