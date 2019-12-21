@@ -43,9 +43,53 @@
 
 > Watching TV and playing computer games are the recreational activities that many children are fond of.
 
+* 旅游是一个开阔眼界，放松身心的机会
+
+> Travel is a great opportunity to broaden horizons and relax our body and soul.
+
 ## 交代辩论话题
 
+* 但是，是否手机带来了坏处多于好处，导致了激烈的争议
+
+> However, whether mobile phones bring more disadvantages than advantages is hot issue.
+
+* 但是，是否大学应该强调职场技能的培训，这是一个热门话题
+
+> however, whether universities should give top priority to providing job-related skills is a hot issue.
+
+* 但是，是否提升油价就能促进环保，导致了激烈的争议
+
+> However, whether raising the fuel price can promote environmental protection is a hot issue.
+
+* 但是，是否科技发展加速了贫富分化，这是一个热点话题
+
+> However, discussion now centres on whether the technology development accelerates the polarization between the rich and the poor.
+
+* 但是，是否野生动物被过度保护，这是一个热点话题
+
+> However, discussion now centres on whether wild animals have been overprotected.
+
 ## 表达自己全文立场
+
+* 我的观点是，A比B更重要
+
+> My view is that A is more important than B.
+
+* 我的观点是，A不能完全取代B
+
+> My view is that A cannot completely replace B.
+
+* 我的观点是，这两种方式都有价值
+
+> My view is that both ways have their own values.
+
+* 我的观点是，这种方法可能在短期内是有效果的
+
+> My view is that this method may be effective in the short term.
+
+* 我的观点是，这不仅仅是政府的责任
+
+> My view is that this cannot be the responsibility of the government's responsibility.
 
 ## 主体段中心句
 
