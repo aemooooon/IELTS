@@ -130,12 +130,12 @@ Koi
 * Autopsy  /'ɔːtɒpsɪ/  n. 验尸，尸体解剖
 
 ### Anti
-* Anti-social behavior
-* Antibiotic
-* Antiseptic
-* Antitoxin
-* Antipathy
-* Sympathy, Empathy
-* Antidote
-* Anti-corruption protest
-* Bribery
+* Anti-social behavior 反社会行为
+* Antibiotic  /ˌæntɪbaɪ'ɒtɪk/  抗生素
+* Antiseptic  /æntɪ'septɪk/  抗菌的
+* Antitoxin  /æntɪ'tɒksɪn/  抗毒素
+* Antipathy  /æn'tɪpəθɪ/  反感
+* Sympathy 同情, Empathy 同理心
+* Antidote  /'æntɪdəʊt/  解药 解毒剂 矫正方法 对抗手段
+* Anti-corruption protest 反腐败示威
+* Bribery  /'braɪbərɪ/ 行贿受贿
