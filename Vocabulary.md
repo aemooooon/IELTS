@@ -40,8 +40,25 @@ Tertiary education
 ```
 
 
-Calculus 词源 结石
+### Calculus 词源 结石
+```
 Calculation
 Calcium 钙
 Chalk 粉笔
+```
+
+### View
+```
+Landscape
+Scene
+Scenery
+```
+
+### Foodie
+```
+Expensive
+Costly
+Pricy
+Cost an arm and a leg 卖肾才买的起
+It's raining cats and dogs 雨很大
 ```
