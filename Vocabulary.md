@@ -1,6 +1,10 @@
 ### Advanced Maths 
 
-> Function  Calculus  Algebra  Geometry  Trigonometry
+* Function
+* Calculus
+* Algebra  
+* Geometry  
+* Trigonometry
 
 ### Basic calculations...
 ```bash
@@ -63,27 +67,18 @@ Cost an arm and a leg 卖肾才买的起
 It's raining cats and dogs 雨很大
 ```
 
-We are on the same wavelength
-
-We are like two peas in a pod
-
-You can not be/sit on the fence.
-
-This decision is a no-brainer.
-
-I have mixedfeelings about...
-
-When it comes to... 到那个时候
-
-As for... 至于
-
-Regarding... 关于...
-
-Regardless of... 不管，无论
-
-In spite of/despite... 尽管，虽然
-
-In terms of... 就……而言
+### Sentences
+* We are on the same wavelength
+* We are like two peas in a pod
+* You can not be/sit on the fence.
+* This decision is a no-brainer.
+* I have mixedfeelings about...
+* When it comes to... 到那个时候
+* As for... 至于
+* Regarding... 关于...
+* Regardless of... 不管，无论
+* In spite of/despite... 尽管，虽然
+* In terms of... 就……而言
 
 
 > Absorb
@@ -93,3 +88,43 @@ In terms of... 就……而言
 3. (attract) attention
 4. immigrants
 ```
+
+```
+Major
+Minor
+Swamp
+Marsh
+Wetland
+Koi
+```
+
+* How often...?
+* Every single day = on a daily basis
+* From time to time = every now and then
+* On a regular basis
+* Once in a blue moon
+* Seldom, rarely, hardly ever
+
+### Drive n. 路
+* Queen's drive
+* Address: _____________ "数字 + 名字 + 路"
+* woodside
+* riverside 河边 河畔
+* upland
+* avenue
+* drive
+* boulevard /'buːləvɑːd/ 林荫大道
+* block
+* district
+* square
+* alley(alley cat)
+* lane
+
+### Auto
+* Automation
+* Automatic n. 自动挡 Manual gear 手动挡
+* Automobile
+* Autobiography
+* Autograph
+* Autocrat
+* Autopsy
