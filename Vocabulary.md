@@ -23,4 +23,25 @@ Contract, Contact lens 近距离眼镜
 Extract
 Distract 分散 分心 心烦意乱情迷
 Detract
+
+```
+
+> To detract is to diminish, take away from, or reduce the value of (something). The word is mainly used intransitively (i.e., not requiring a direct object), and its usually followed by from. For instance, a pile of unfinished work might detract from your enjoyment of a football game. Distract, which is always used transitively (meaning that it must have a direct object), means to divert attention or interest. The verb almost always acts directly on the person or thing being distracted. For instance, your unfinished work might distract you from a football game.
+
+### Level
+```
+初级的： primary, elementary, basic, fundamental
+中级的： intermediate, secondary
+高级的： advanced
+
+Preliminary 初步的，预备的  rudimentary 基础的，基本的（知识）
+Higher education
+Tertiary education
+```
+
+
+Calculus 词源 结石
+Calculation
+Calcium 钙
+Chalk 粉笔
 ```
