@@ -81,7 +81,7 @@ It's raining cats and dogs 雨很大
 * In terms of... 就……而言
 
 
-> Absorb
+### Absorb
 ```
 1. heat, wate
 2. (acquire) knowledge
@@ -124,7 +124,18 @@ Koi
 * Automation
 * Automatic n. 自动挡 Manual gear 手动挡
 * Automobile
-* Autobiography
+* Autobiography 自传
 * Autograph
-* Autocrat
-* Autopsy
+* Autocrat  /'ɔːtəkræt/ n. 独裁统治者， adj 独裁的，专治的
+* Autopsy  /'ɔːtɒpsɪ/  n. 验尸，尸体解剖
+
+### Anti
+* Anti-social behavior
+* Antibiotic
+* Antiseptic
+* Antitoxin
+* Antipathy
+* Sympathy, Empathy
+* Antidote
+* Anti-corruption protest
+* Bribery
