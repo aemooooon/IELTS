@@ -2,7 +2,9 @@
 
 * Function
 * Calculus
-* Algebra  
+* Differential calculus
+* Integral calculus
+* Linear Algebra  
 * Geometry  
 * Trigonometry
 
@@ -23,7 +25,7 @@ Subtitle
 Substitute 替代 Substitutor 替代品
 
 Tractor
-Contract, Contact lens 近距离眼镜
+Contract, Contact lens 接触性眼镜
 Extract
 Distract 分散 分心 心烦意乱情迷
 Detract
@@ -60,17 +62,25 @@ Scenery
 
 ### Foodie
 ```
+Delish
+Palatable
+Delectable
+Scrumptions
+Mouthwatring
+Tasty
+
 Expensive
 Costly
 Pricy
 Cost an arm and a leg 卖肾才买的起
-It's raining cats and dogs 雨很大
 ```
 
 ### Sentences
+* slang 俚语 idiom 习语
 * We are on the same wavelength
+* It's raining cats and dogs 雨很大
 * We are like two peas in a pod
-* You can not be/sit on the fence.
+* You can not be/sit on the fence. 别坐视不管
 * This decision is a no-brainer.
 * I have mixedfeelings about...
 * When it comes to... 到那个时候
@@ -79,7 +89,12 @@ It's raining cats and dogs 雨很大
 * Regardless of... 不管，无论
 * In spite of/despite... 尽管，虽然
 * In terms of... 就……而言
-
+* Green fingers 擅长园艺
+* hit it off 一见如故
+* greener pastures 新天地
+* Commit a crime 犯罪
+* Blockbusing movie 一鸣惊人 非常成功
+* 
 
 ### Absorb
 ```
@@ -95,7 +110,7 @@ Minor
 Swamp
 Marsh
 Wetland
-Koi
+Koi  /kɔɪ/ 锦鲤
 ```
 
 * How often...?
