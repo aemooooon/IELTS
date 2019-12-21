@@ -93,6 +93,26 @@
 
 ## 主体段中心句
 
+* 多元文化社会有助于促进经济繁荣
+
+> The multicultural society contributes to promoting the economic prosperity.
+
+* 政府可以大力发展低碳经济
+
+> Governments can make great efforts to develop low-carbon economy.
+
+* 激烈的现代职场竞争是一个诱因
+
+> The fierce competition in the modern job market is a contributing factor.
+
+* 首先，很显然，博物馆起到收藏保存文物的功能
+
+> Firstly, it is clear that museums play a role in collecting and preserving historic relics.
+
+* 首先，很显然，远程教学更加便利和灵活
+
+> Firstly, it is obvious that distance learning is more convenient and flexible.
+
 ## 主体段论证句 - 原因论证
 
 ## 主体段论证句 - 结果论证
