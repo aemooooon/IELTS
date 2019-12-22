@@ -115,9 +115,69 @@
 
 ## 主体段论证句 - 原因论证
 
+* 这是因为建筑风格反映了一个民族的文化特点和历史习俗
+
+> This is because architectural sytle can reflect the cultural characteristics and historic customs of a nation.
+
+* 这是因为低碳经济是一种对环境友好的、可持续发展的模式
+
+> This is because low-carbon economy is an eco-friendly and sustainable development model.
+
+* 这是因为外企不仅能带来资金，还能带来先进技术和管理经验
+
+> This is because foreign companies can bring not only funds but also advanced technologies and management experiences.
+
+* 这是因为获得医疗保障是每个公民和纳税人的基本权利
+
+> This is because receiving health care is the basic right of every citizen and taxpayer. 
+
+* 这是因为孩子有很强烈的好奇心和模仿能力，而且不能区分对错
+
+> This is because children have strong curiosity and imitation ability and they cannot distinguish right from wrong.
+
 ## 主体段论证句 - 结果论证
 
+* 这意味着人们之间的感情纽带会越来越弱
+
+> This means that the emotional bonds among people will become weaker and weaker.
+
+* 这意味着父母可能会经常加班，陪孩子一起玩耍的时间减少
+
+> This means that parents may often work overtime and have less time to play with their children.
+
+* 这意味着科技会促进生产力提高，进而创造更多的社会财富
+
+> This means that the technology can promote the productivity and then create more social wealth.
+
+* 这意味着改变不是一个个人的选择，而是一个无法逃避的生活现实
+
+> This means that change is not a personal option, but an inescapable fact of life.
+
+* 这意味着幸福没有一个客观的判断指标，而只是一个人的主观感受
+
+> This means that there are no objective criteria of happiness, but only a person's subjective feelings.
+
 ## 主体段论证句 - 反向论证
+
+* 如果警察不被容许配枪，他们就没有足够的能力阻止一些暴力犯罪
+
+> If the police are not allowed to be equipped with guns, they will not have enough capabilities to prevent some violent crimes.
+
+* 如果人们只依赖于网络去联系彼此，那么我们会变得越来越冷漠和孤独
+
+> If people only rely on the Internet to keep contact with each other, then we will become more and more indifferent and lonely.
+
+* 如果学生没有掌握分析和解决复杂问题的能力，他们将在职场上缺乏竞争力
+
+> If students do not acquire the ability of analyzing and solving complex problems, they will lack competitiveness in the workplace.
+
+* 如果政府不重视文化艺术领域的投资，人们的精神生活品质将不会提升
+
+> If governments do not play attention to the investment in culture and arts, the quality of peoples's spiritual life will not be improved.
+
+* 如果大量女性被鼓励加入了军队，那么同样数量的男性会接替她们的工作去照料家庭
+
+> If a lot of females are encouraged to join the army, then the same number of males will take their position to look after the family.
 
 ## 主体段论证句 - 具体论证
 
