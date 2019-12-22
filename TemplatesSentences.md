@@ -225,6 +225,34 @@
 
 ## 主体段论证句 - 对比论证
 
+* 当传统家庭观念强调关爱、分享和服从，现代人似乎更提倡自由、自我和独立
+
+> While traditional families give top priority to care, sharing and obedience, modern citizens mainly enjoy freedom, ego and independence.
+
+* 当成年人在追求和平消除战争的时候，我们的孩子在兴致勃勃的在电脑上玩着战争游戏和谈论各种里面的武器
+
+> While adults are pursuing peace and eliminating wars, our children are enjoying in playing the war game on computers and talking about various arms in it.
+
+* 虽然远程教育让学生能随时随地学习，但是它不能完全取代传统学校的地位
+
+> While the distant learning enables student to study anywhere and anytime, it cannot completely replace traditional schools.
+
+* 虽然经济发展让我们的生活更加舒适，它也导致社会财富两级分化
+
+> While the development of the economy enables us to live a more comfortable life, it also leads to the polarization of the social wealth.
+
+* 虽然传统老建筑从外观看起来很优雅，但是它们通常不是很实用
+
+While traditional old buildings seem to be elegant from the outside, they are usually not practical.
+
+* 面授课培养了交流和合作能力，这是远程教学所不能提供的
+
+Face to face teaching cultivates studnets' abilities of communication and cooperation which cannot be provided by the distance learning. corporationd
+
+* 妇女通常拥有温柔、耐心和善解人意等个性特点，这些事大多数男性所不具备的
+
+> Women usually have personalities such as tendeerness, patience and sympathy which most men do not have.
+
 ## 主体段论证句 - 事实论证
 
 ## 主体段论证句 - 表达论证
