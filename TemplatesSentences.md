@@ -181,7 +181,47 @@
 
 ## 主体段论证句 - 具体论证
 
+* 当我们穿着时尚时，我们会感觉更加的自信和快乐
+
+> When we dress ourselves in fashion, we may feel more confident and happier.
+
+* 当油价上涨时，人们会自发地少开车，多乘公交地铁
+
+> When fuel prices go up, people will voluntarily drive less and take the bus and subway more.
+
+* 当孩子进入学校，他们就开始学习如何与不同社会背景的人相处
+
+> When children go to school, they begin to learn how to get along with people from different social backgrounds.
+
+* 当我们参观一个新地方时，我们会体验和学习不同的文化、生活和思维方式
+
+> When we visit a new place, we can experience and learn various cultures, lifestyles and ways of thinking.
+
+* 一旦许多大公司搬迁到郊区，市区的人口和交通压力就能得到缓解
+
+> Once many large companies move to the suburb, the population and traffic pressure of the downtown will be alleviated/released.
+
 ## 主体段论证句 - 举例论证
+
+* 例如，在多元化的城市里，人们可以看美国大片，吃日本寿司，喝法国红酒，穿意大利时装
+
+> For example, in multicultural cities, people can watch Aemrican blockbusters, eat Japanese sushi, drink French wine and wear Italian clothes.
+
+* 例如，从太空探索事业发展出来的气象卫星和卫星定位技术，已经让每一位普通人收益
+
+> For example, meteorological satellites and GPS developed from space exploration have benefited every ordinary person.
+
+* 例如，我们可以大力开发绿色能源，比如太阳能、风能和潮汐能源
+
+> For example, we can make great efforts to exploit green energy such as solar, wind and tidal energy.
+
+* 例如，肯德基的广告只强调食品的美味，从不提及垃圾食品的潜在危害
+
+> For example, the advertisements of KFC only emphasize how delicious their products are, but never mention the potential harm of junk food.
+
+* 例如，很多迪士尼的经典动画传递和培养了孩子们的诚实、勇敢的美德
+
+> For example, many classic Disney animations have conveyed and cultivated children's virtues, such as honesty and courage.
 
 ## 主体段论证句 - 对比论证
 
