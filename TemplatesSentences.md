@@ -384,3 +384,7 @@ Face to face teaching cultivates studnets' abilities of communication and cooper
 * 当人们在阅读书籍的时候，他们会主动的吸收信息，激发想象力，这是看电视所不能提供的
 
 > When people read books, they absorb information actively and stimulate their imagination, which cannot be provided by watching TV.
+
+
+
+Reference: 学为贵
