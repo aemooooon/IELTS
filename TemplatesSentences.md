@@ -251,14 +251,118 @@ Face to face teaching cultivates studnets' abilities of communication and cooper
 
 * 妇女通常拥有温柔、耐心和善解人意等个性特点，这些事大多数男性所不具备的
 
-> Women usually have personalities such as tendeerness, patience and sympathy which most men do not have.
+> Women usually have personalities such as tenderness, patience and sympathy which most men do not have.
+
+* 老员工通常有着丰富的工作经验和行业人脉，这是职场新人所缺乏的
+
+> Old employees usually have rich work experience and connections which freshmen are lack of.
+
+* 酒后驾车所造成的事故比老年人超龄驾车造成的事故多得多
+
+> Accidents that are caused by driving after drinking are much more than those that are resultd from the overage driving by senior citizens.
+
+* 机器人可以几分钟内无错地完成人工需要几个月才能完成的工作量
+
+> The workload that could take months to finish by manual labor could be done flawlessly by robots in minutes.
 
 ## 主体段论证句 - 事实论证
 
+* 公司追求利润最大化，这一事实意味着媒体公司的报道可能会偏离事实，误导大众
+
+> The fact that firms pursue the maximization of profits shows that reports of media companies may deviate from the turth and mislead the public.
+
+* 我们有着不同的语言，这一事实证明了我们有着不同的文化
+
+> The fact that we have different languages proves that we have various cultures.
+
+* 一些国家的空气净化器销售越来越好，这一事实说明那里的环境状态越来越差
+
+> The fact that the sales of air purifiers in some countries are getting better and better shows that the environment condition there is becoming worse and worse.
+
+* 电影和电视缺乏分级制度，这一事实意味着儿童很容易看到不适宜的内容
+
+> The fact that there is no rating system in films and TV programs shows that children are easily exposed to unsuitable contents.
+
+* 城市道路越来越拥堵，这一事实意味人们的生活质量和幸福感下降
+
 ## 主体段论证句 - 表达论证
+
+* 一些教育学家认为男孩和女孩应该用不同的方式教育
+
+> Some educationists think that we should adopt different ways to teach boys and girls.
+
+* 另一些人认为金钱是对穷国最直接的援助方式
+
+> Other people think that money is the most direct way to aid poor countries.
+
+* 我认为结合两者的优势是最明智的做法
+
+> I think it is the wisest method to combine the advantages of both sides.
+
+* 这并不是说我们不应该严厉惩罚罪犯
+
+> This is not to say that we should not punish criminals severely.
+
+* 这并不是说我们可以忽视慈善机构的重要
+
+> That is not to say that we can neglect the iportant functions of charities.
 
 ## 主体段论证句 - 表达递进
 
+* 手机促进了人们的交流和信息的分享，这提高了整个社会的工作效率
+
+> Mobile phones promote people's communication and information sharing, which raises the work efficiency of the whole society.
+
+* 长期生活在噪音环境中会导致心情烦躁和睡眠不良等各种问题，这危害了我们的身心健康
+
+> Living in a noisy environment for a long time will lead to upset, insomnia and other problems, which harms our physical and mental health.
+
+* 乡村生活会让现代人放慢生活节奏，亲近自然，这对我们的身心健康有益
+
+> The rural life enables modern people to slow their paces and get close to the nature, which is beneficial to our physical and mental health.
+
+* 如果油价上涨，那么人们将会减少用车，这对减少环境污染有意义
+
+> If the fuel price goes up, people will drive less, which is of great significance for reducing environmental pollution.
+
+* 当一个国家开放市场，包容其他文化，那么海外企业就愿意进入，这对提升本国经济有帮助
+
+> When a country opens its market and tolerates other cultures, then foreign enterprises will be willing to enter, which helps enhance the nation's economy.
+
 ## 结尾段观点句 - 表达强调
 
+* 真正重要的是年轻人的勤奋和奉献精神
+
+> What really matters is young people's diligence and dedication.
+
+* 真正起决定性作用的是人们对于艺术的态度
+
+> What really matters is peoples's attitudes towards arts.
+
+* 家长应该做的是帮助孩子们学会区分对错
+
+> What parents should do is to help thier children distinguish right from wrong.
+
+* 历史给我们的不仅是过去的教训，还有对未来的前瞻
+
+> What the history gives us is not only lessons of the past but also outlooks of the future.
+
+* 政府应该做的是根据实际情况调整税收政策
+
+> What governments should do is to adjust tax policies according to the actual situation.
+
 ## 高难度句型 - 从句嵌套
+
+* 那行认为体育明星高收入是不恰当的人指出，科学家对社会做出的贡献更大
+
+> Those who think high income of sports stars is not appropriate point out that scientists make more contributions to the society.
+
+* 那些支持政府修建体育馆的人认为这会鼓励大众关注体育运动，提升健康意识
+
+> Those who support the goverment to build the stadium believe that it will encourage the public to pay attention to sports and raise the awareness of health.
+
+* 一些人持有动物实验不应该被禁止的观点，他们认为人类医学的发展依赖于许多的动物实验
+
+> Some people who hold the opinion that animal experiments should not be banned think that the development of human's medicine depends on lots of such tests.
+
+* 一些教育学家认为
