@@ -365,4 +365,22 @@ Face to face teaching cultivates studnets' abilities of communication and cooper
 
 > Some people who hold the opinion that animal experiments should not be banned think that the development of human's medicine depends on lots of such tests.
 
-* 一些教育学家认为
+* 一些教育学家认为学生应该穿校服，因为他们相信这会让学生意识到遵守规则和纪律的重要性
+
+> Some educators think students should wear uniforms because they believe this will allow them to realize the importance of obeying rules and disciplines.
+
+* 一些人认为城市里的动物园应该被取消，因为他们相信人们可以通过网络和电视了解关于某种动物的一切知识
+
+> Some people suppose that zoos in cities should be cancelled because they believe we can learn all the relevant knowledge of a certain animal through the Internet and TV.
+
+* 现代职场最需要的是有创新思想的员工，而不是只知道服从命令的机器人
+
+> What modern job markets need most are creative employees instead of the robots that only obey the order.
+
+* 穷国最需要的援助不是金钱，而是科技和人才，这才会帮助它们从根本上摆脱贫穷
+
+> What poor countires need most is not money but the technology and talents, which can help them get rid of poverty.
+
+* 当人们在阅读书籍的时候，他们会主动的吸收信息，激发想象力，这是看电视所不能提供的
+
+> When people read books, they absorb information actively and stimulate their imagination, which cannot be provided by watching TV.
