@@ -8,3 +8,22 @@ Secondly, Students should not study via internet. Since the government has diffe
 
 In conclusion, students should study at school rather than on internet. The reason just like I have mentioned above that is not good for students health grown up and learning efficiency.
 
+
+## clean the pollution they produce. TAD?
+
+Bing   Quora
+
+事务 数量 3  companies individuals governments
+
+限定 污染
+
+2
+
+3
+
+反对：我认为 企业应该去支付，但是政府应该帮助个人去支付钱清理所造成的污染
+
+第一个主体段（企业应该去支付）
+
+PEEL
+
