@@ -32,4 +32,5 @@ On the one hand, 企业之所以去支付他们所造成的污染，是因为其
 
 （事实上，为了生存，企业在生产的过程中可能造成许多负面的影响，特别是污染，而这种负面的影响可能会对社会和他人造成危害，所以企业在满足盈利目的的前提下应该去补偿）企业在生产过程中燃烧化石燃料，排放了二氧化碳等温室气体，这样会导致雾霾和全球变暖，这样会影响到其他的人们。但他们往往为了节约成本，追求更高的利润，会忽略对排放量的有效控制。
 
+Companies are normally responsible for the producing behaviours which are more likely to result in contamination by means of paying for the money.
 
