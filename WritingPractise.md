@@ -36,5 +36,6 @@ Companies are normally responsible for the producing behaviours which are more l
 
 第一种 论证方向 - 观点   中心句不可以改写题目（原因）
 
-第二种 论证方向 - 部分观点  中心句可以改写题目  （见上面题目）
+第二种 论证方向 - 部分观点  中心句可以改写题目（见上面题目）
 
+On the other hand,
