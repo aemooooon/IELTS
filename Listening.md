@@ -22,3 +22,14 @@
   1. without any distraction(比如什么没有pets，snacks，tv)，所以可以concentrate
   2. look up the resources
   3. people sitting around me are hardworking
+
+
+### 话题词汇
+* cultural heritage
+* symbol of our nation
+* historical relics
+* tourist attraction
+* it is said that this place is cursed / haunted / blessed
+* experienced several times of refurbishment/wars
+* witnessed our history
+* preserve/protect our legacy
