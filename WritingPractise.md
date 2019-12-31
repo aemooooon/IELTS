@@ -78,4 +78,8 @@ Instead, students' academic performance is priority for their teachers instead o
 
 
 
-Some people think that reading books can develop imagination and language skills more than watching TV. TAD?
+作业：Some people think that reading books can develop imagination and language skills more than watching TV. TAD?
+
+some people think that the best way  for protecting environment is to raise oil prices. TAD?
+
+
