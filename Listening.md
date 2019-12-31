@@ -1,5 +1,7 @@
 # Listening
 
+## Part 2
+
 ### 话题词汇
 
 > 遥远的地方；未来想去的地方；总过某一个城市；美丽的地方
@@ -34,3 +36,10 @@
 * witnessed our history
 * preserve/protect our legacy
 * you can see obvious wear and tear on the walls
+
+## Part 3
+A. 考官想要什么： Argue / analyse / reason / compare / examplification / prediction / classification 
+B. 回答长度 3-8句，20-50s
+C. 
+
+Step 1: have a thesis / opinion / attitude + reason
