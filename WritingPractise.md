@@ -62,6 +62,11 @@ Regarding of sth.
 
 In comparison with parents, teachers are more likely to be professional in the promotion of intelligence.This is because most of those teachers have received theory-based training before career, and they can also accumulate an amount of experience. For this reason, the practices they access is able to allow them to cultivate their students' brainpower scientifically by means of imparting knowledge. Otherwise, parents normally lack related educational background and specific working experience.
 
-家长比老师更具备影响力在社交发展家长有更多的机会去带领孩子去参加社交活动 比老师
+家长比老师更具备影响力在社交发展，家长有更多的机会去带领孩子去参加社交活动 比老师
 
 家长的日常职责就是陪伴孩子而非其他专业任务，所有日常中，设计活动可能使得家长和孩子共同参与，从而在这个过程，孩子可以去模仿家长与人交流的合理方式，从而提高设计技能。相反的是，老师更加在关注学生学习而非社交技能。
+
+Parents palys a important role to children in the affect of social skill developing. Compare to teachers they have more chances to bring children particepating social activities.
+
+Regarding of the working basis of teachers, family life makes it more possible to be engaged in social activities for their cildren.
+
