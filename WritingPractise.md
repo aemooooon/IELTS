@@ -88,5 +88,5 @@ some people think that the best way  for protecting environment is to raise oil 
 
 一方面，提供油价能够在一定程度上保护环境 On the one hand, higher petrol prices contribute to environmental protection to some extent. 
 
-成本
+成本 选择不开车 - 减少破坏环境尾气 - 减少大气污染 People will reduce the use of virtical or choose other alternative way instead of going out since the petrol cost getting higher. This sort of actions will decrease the green house gas emission
 
