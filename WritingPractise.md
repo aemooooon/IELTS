@@ -60,7 +60,7 @@ Regarding of sth.
 
 引导含有比较关系的中心句
 
-In comparison with parents, teachers are more likely to be professional in promotion of intelligence.
+In comparison with parents, teachers are more likely to be professional in the promotion of intelligence.
 
-Most of those teacher have received theory-based training before career, and they can also accumulate an amount of experience. For this reason, the practices they access is able to allow them cultivate thier students' brainpower scientifically by means of imparting knowledge
+Most of those teachers have received theory-based training before career, and they can also accumulate an amount of experience. For this reason, the practices they access is able to allow them to cultivate their students' brainpower scientifically by means of imparting knowledge. Otherwise, parents normally lack related educational background and specific working experience.
 
