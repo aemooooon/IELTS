@@ -82,4 +82,11 @@ Instead, students' academic performance is priority for their teachers instead o
 
 some people think that the best way  for protecting environment is to raise oil prices. TAD?
 
+前提 和 结构  回应 best
+
+承认一定程度的好处，但是他也存在一些问题
+
+一方面，提供油价能够在一定程度上保护环境 On the one hand, higher petrol prices contribute to environmental protection to some extent. 
+
+成本
 
