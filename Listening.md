@@ -38,8 +38,13 @@
 * you can see obvious wear and tear on the walls
 
 ## Part 3
-A. 考官想要什么： Argue / analyse / reason / compare / examplification / prediction / classification 
-B. 回答长度 3-8句，20-50s
-C. 
+1. 考官想要什么： Argue / analyse / reason / compare / examplification / prediction / classification 
+2. 回答长度 3-8句，20-50s
+3. 论述逻辑建议
+  1. 给出多于两个的原因、例子。 结构： 
+      step 1. Repeat / rephrase the question and state your thesis / opinion
+      step 2. Opinion 1 - first of all, 观点 1.
+      step 3. example 1 - for instance, xxx.
+      step 4. opinion 2 - first of all, 观点 1.
 
 Step 1: have a thesis / opinion / attitude + reason
