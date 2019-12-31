@@ -52,4 +52,11 @@ On the other hand,
 Otherwise，instead，however
 家长通常缺乏
 
-The teacher play a important role than parents, it mainly represents on professional and practical.
+老师比家长在提升智力的方面更为专业。这是因为绝大部分的老师在开始职业之前是接受过专业的训练。并且在工作后，能够积累大量的教学经验。因此，他们所获得的这些知识可以更科学的去培养孩子们的脑力。相反的是家长通常缺乏这方面的教学背景和相关经验。
+
+More than
+In comparison with
+Regarding of sth.
+
+引导
+
