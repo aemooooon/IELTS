@@ -72,5 +72,10 @@ The daily basis route of parents is stay with children together and taking care 
 
 Regarding of the working basis of teachers, family life makes it more possible to be engaged in social activities for their cildren.
 
-This is because core duty of parents is to lay emphasis on
+This is because core duty of parents is to lay emphasis on accompany and care-giving not other aspects. In this sense, social interaction in a family allows all family members to be involved, which means the behavours
 
+Instead, students' academic performance is priority for their teachers instead of other aspects like socializing.
+
+
+
+Some people think that reading books can develop imagination and language skills more than watching TV. TAD?
