@@ -52,5 +52,5 @@
       * step 3 contrast / alternative : however, if they donot do so / if not / they would / might / could =
       * step 4 result / ending / conclusion - as a result, .../ by doing so, they can xxx. / thus. they xxx.
 5. 主体词汇 
-  1. Writing task 2 -  复述段落，使用话题中的主题词汇 
-  2. 6 minute English -- BBC
+  * Writing task 2 -  复述段落，使用话题中的主题词汇 
+  * 6 minute English -- BBC
