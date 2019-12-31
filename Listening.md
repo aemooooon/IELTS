@@ -33,3 +33,4 @@
 * experienced several times of refurbishment/wars
 * witnessed our history
 * preserve/protect our legacy
+* you can see obvious wear and tear on the walls
