@@ -42,15 +42,15 @@
 2. 回答长度 3-8句，20-50s
 3. 论述逻辑建议 1
   1. 给出多于两个的原因、例子。 结构： 
-      * step 1 Repeat / rephrase the question and state your thesis/opinion
-      * step 2 Opinion 1 - first of all, 观点 1.
-      * step 3 example 1 - for instance, xxx.
-      * step 4 opinion 2 - first of all, 观点 1.
+    * step 1 Repeat / rephrase the question and state your thesis/opinion
+    * step 2 Opinion 1 - first of all, 观点 1.
+    * step 3 example 1 - for instance, xxx.
+    * step 4 opinion 2 - first of all, 观点 1.
 4. 论述逻辑建议 2
-      * step 1 have a thesis / opinion / attitude + reason
-      * setp 2 give an example
-      * step 3 contrast / alternative : however, if they donot do so / if not / they would / might / could =
-      * step 4 result / ending / conclusion - as a result, .../ by doing so, they can xxx. / thus. they xxx.
+    * step 1 have a thesis / opinion / attitude + reason
+    * setp 2 give an example
+    * step 3 contrast / alternative : however, if they donot do so / if not / they would / might / could =
+    * step 4 result / ending / conclusion - as a result, .../ by doing so, they can xxx. / thus. they xxx.
 5. 主体词汇 
-  * Writing task 2 -  复述段落，使用话题中的主题词汇 
-  * 6 minute English -- BBC
+    * Writing task 2 -  复述段落，使用话题中的主题词汇 
+    * 6 minute English -- BBC
