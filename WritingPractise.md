@@ -64,9 +64,13 @@ In comparison with parents, teachers are more likely to be professional in the p
 
 家长比老师更具备影响力在社交发展，家长有更多的机会去带领孩子去参加社交活动 比老师
 
-家长的日常职责就是陪伴孩子而非其他专业任务，所有日常中，设计活动可能使得家长和孩子共同参与，从而在这个过程，孩子可以去模仿家长与人交流的合理方式，从而提高设计技能。相反的是，老师更加在关注学生学习而非社交技能。
+家长的日常职责就是陪伴孩子而非其他专业任务，所有日常中，社交活动可能使得家长和孩子共同参与，从而在这个过程，孩子可以去模仿家长与人交流的合理方式，从而提高设计技能。相反的是，老师更加在关注学生学习而非社交技能。
 
 Parents palys a important role to children in the affect of social skill developing. Compare to teachers they have more chances to bring children particepating social activities.
 
+The daily basis route of parents is stay with children together and taking care of them, rather than other tasks. So there are much largar possibilities to make sure childen paticepating social activities coming with parents, they also be affect by parents and other people's behaviour.
+
 Regarding of the working basis of teachers, family life makes it more possible to be engaged in social activities for their cildren.
+
+This is because core duty of parents is to lay emphasis on
 
