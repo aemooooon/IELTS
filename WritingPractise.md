@@ -39,3 +39,17 @@ Companies are normally responsible for the producing behaviours which are more l
 第二种 论证方向 - 部分观点  中心句可以改写题目（见上面题目）
 
 On the other hand,
+
+
+
+### 2019-12-31
+
+中心句： 专业性 + 老师比家长
+接受过培训 + 工作后实践
+知识帮助他们更科学的去培养大家的脑力通过上课的方式
++
+反向论证
+Otherwise，instead，however
+家长通常缺乏
+
+The teacher play a important role than parents, it mainly represents on professional and practical.
