@@ -70,5 +70,10 @@
 * actually, I have tried different types of ---, for example, A, B and C. But the one that left me the deepest impression is ---. 
 * If I remember correctly, I --- last summer holiday. since I had a 40 days' holiday, I could do whatever I wanted. 
 * I -- with my friend Alex, who has been my besite for at least 10 years.
-* It was in Hainan island that we did this active, as for why i picked there, you know, it's one of the top-notch beaches in China with wonderful hotels and professional coaches.
+* It was in Hainan island that we did this activity, as for why i picked there, you know, it's one of the top-notch beaches in China with wonderful hotels and professional coaches.
 
+### How you learnt it
+* watched an online tutorial/video
+* a vlogger uploaded some video clips to teach people how to xxx.
+* he has thousands of followers/subscribers
+* signed up  6-hour training course
