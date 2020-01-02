@@ -80,4 +80,19 @@
 * I was in good hands.
 * He taught me the ABCs/advanced skills of diving at first.
 * I Practise on and on after learning from my coach 
+* difficult - it's no easy feat
+* get close to the nature
+* refreshing - I live a sedentary lifestyle
+* wanted to give up
+* take the plunge/take the risk
+
+### Feeling
+* I felt good
+* I was over the moon
+* I had a whale of a time = I had a good time
+* unwind my tension/release my burden-- the sedentary lifestyle drains me out.
+* the marine world is magnificent
+* overcame my fear
+* broke my limitation
+* be a braver person
 
