@@ -76,4 +76,8 @@
 * watched an online tutorial/video
 * a vlogger uploaded some video clips to teach people how to xxx.
 * he has thousands of followers/subscribers
-* signed up  6-hour training course
+* signed up 6-hour training course
+* I was in good hands.
+* He taught me the ABCs of diving at first.
+* I Practise on and on after learning from my coach 
+
