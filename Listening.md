@@ -96,3 +96,25 @@
 * broke my limitation
 * be a braver person
 
+### Describe a piece of clothing you enjoy wearing. you should say
+* what it is
+* when and where you bought it
+* what it is like
+* And explain why you enjoy wearing it
+
+#### what
+* jeans
+* downcoat
+* jumper
+* turtle neck
+* sportswear/jogger
+* hoodie
+
+### Notes
+* what a t-shirt
+* when last summber sale, on discount
+* where in a vintage store near the tourist attraction
+* who with my friends
+* price 200, previous 2000
+* 为什么买/什么样子 price/beautiful/special/meaningful
+* Feeling/ love it 但是质量一般，下次在景区买东西的时候要谨慎
