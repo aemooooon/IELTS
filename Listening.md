@@ -65,3 +65,10 @@
 * who with my friend, who xxx
 * how you learnt it: coach / intrenet /friends /practice
 * feeling good(excited - 1st time; nervous - never before; expect - furture)
+
+### who+when+where
+* actually, I have tried different types of ---, for example, A, B and C. But the one that left me the deepest impression is ---. 
+* If I remember correctly, I --- last summer holiday. since I had a 40 days' holiday, I could do whatever I wanted. 
+* I -- with my friend Alex, who has been my besite for at least 10 years.
+* It was in Hainan island that we did this active, as for why i picked there, you know, it's one of the top-notch beaches in China with wonderful hotels and professional coaches.
+
