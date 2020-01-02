@@ -118,3 +118,7 @@
 * price 200, previous 2000
 * 为什么买/什么样子 price/beautiful/special/meaningful
 * Feeling/ love it 但是质量一般，下次在景区买东西的时候要谨慎
+
+There are many pieces of clothing that I love wearing, for example, xxx, xxx and xxx. amoung which, my favorite one is---, which was bought --- 时间-- when I was 在某地做某事。
+
+### 价格
