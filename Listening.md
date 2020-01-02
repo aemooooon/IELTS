@@ -6,7 +6,7 @@
 
 > 遥远的地方；未来想去的地方；总过某一个城市；美丽的地方
 
-* when: next christmas, december
+* when: next Christmas, December
 * who: my friends, have known each other for at least 10 years
 * where: Paris, 13 hours flight
 * what to do: 
