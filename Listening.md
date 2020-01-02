@@ -53,5 +53,7 @@
 5. 主体词汇 
     * Writing task 2 -  复述段落，使用话题中的主题词汇 
     * 6 minute English -- BBC
-6. ?
+6. 考察主体Environment/technology/energy/animal/
 7. 如何提问？ 原因、结果、老年人年轻人对比、男女对比、中外对比、过去现在未来对比分析预测、利弊、归类类型、定义、科技对 xxx 的影响、家长是否应该让孩子 xxx 
+7. 如果真的什么也不知道、说不出来 Well, it's a good question./interesting question/I've never thought about it before./ wow, it is the first time I have been asked this type of question./it is really a million-dollar question./ But to be frank, I really have no idea for now. Please gimme a sec. Em, I guess maybe it has something to do with--. You know, I don't study it and perhaps I should read something related to it.
+
