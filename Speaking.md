@@ -140,3 +140,7 @@ There are many pieces of clothing that I love wearing, for example, xxx, xxx and
 * my xxx looks xxx when I wear it.
 * It makes me look thinner/slim
 
+### Description
+* 材质fabric: faux fur人造毛; calf skin 小牛皮; silk; cotton; cashmere; fast-dry material
+* Because it is made of cotton, the texture is very good/comfortable/smooth/airy/creamy/buttery/silky/breathable/elastic
+
