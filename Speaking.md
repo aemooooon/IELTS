@@ -143,4 +143,8 @@ There are many pieces of clothing that I love wearing, for example, xxx, xxx and
 ### Description
 * 材质fabric: faux fur人造毛; calf skin 小牛皮; silk; cotton; cashmere; fast-dry material
 * Because it is made of cotton, the texture is very good/comfortable/smooth/airy/creamy/buttery/silky/breathable/elastic
+* 象征 The embroidery 刺绣/pring印花 pattern图案 on this clothes symbolizes/represents/means/stands for good luck/health/wealth/fortune/longevity
+* designers' collaboation
+* limited edition
+
 
