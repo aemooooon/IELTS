@@ -122,3 +122,20 @@
 There are many pieces of clothing that I love wearing, for example, xxx, xxx and xxx. amoung which, my favorite one is---, which was bought --- 时间-- when I was 在某地做某事。
 
 ### 价格
+* It was on sale/it had a 50% discount. So, I got it at bargain price. 价格合理
+* It's dirt cheap. 特别便宜 it is a steal. 超级便宜
+* 合理的价格 affordable, reasonable, economical
+* It cost me quite a penny but I thought it must be worth the money. 很贵但是很值
+* previous, the price was insane.
+
+* when I saw the price tag. I was shocked coz the price was insane.
+* but the sales girl told me it was on sale/ it had a 50% discount. So, I got it at bargain price. 价格合理
+* It is dirt cheap. It it a steal. 超级便宜
+* 合理的价格 
+
+### 款式
+* it is a vintage. it is a must-have for this season.
+* it is chic/trendy/stylish/retro/exotic 异域风情的/ modern/gothic this style of dress featured the custom in this region.
+* it looked good on me and hightlighted my waistline.
+* my xxx looks xxx when I wear it.
+* It makes me look thinner/slim
