@@ -108,9 +108,26 @@ some people think that the best way  for protecting environment is to raise oil 
 
 学习能力
 
-Most of world problems are caused by over-population
+Most of the world problems are caused by over-population
 
 世界问题：
 战争、经济危机、全球问题、犯罪率升高、资源短缺、社会结构问题
+
+No Resource distribution issue
+
+同意 完全反对
+A 比 B 好、B 比 A 好
+
+第一段 A 怎么好
+
+第二段 B 怎么不成 A cover
+
+some people think newspaper provides more reliable information than internet.TAD
+
+同意
+
+第一段 报纸信息来源的审核度更高
+
+第二段 互联网需要外部的接入条件 如电脑或手机，但是报纸并不需要
 
 
