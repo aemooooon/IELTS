@@ -90,3 +90,21 @@ some people think that the best way  for protecting environment is to raise oil 
 
 成本 选择不开车 - 减少破坏环境尾气 - 减少大气污染 People will reduce the use of virtical or choose other alternative way instead of going out since the petrol cost getting higher. This sort of actions will decrease the green house gas emission
 
+
+
+反对 比较关系
+
+2 
+
+集体活动教会大家哪一类生活技能
+
+个体活动教会大家其他那些类别技能
+
+沟通
+
+协作能力
+
+解决问题能力
+
+学习能力
+
