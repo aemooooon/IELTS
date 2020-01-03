@@ -108,3 +108,9 @@ some people think that the best way  for protecting environment is to raise oil 
 
 学习能力
 
+Most of world problems are caused by over-population
+
+世界问题：
+战争、经济危机、全球问题、犯罪率升高、资源短缺、社会结构问题
+
+
