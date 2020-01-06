@@ -131,3 +131,46 @@ some people think newspaper provides more reliable information than internet.TAD
 第二段 互联网需要外部的接入条件 如电脑或手机，但是报纸并不需要
 
 
+
+艺术通常只能满足人们的精神需求，但是提高生活质量的最明显因素应该是物质需求。因此，单纯的满足人们的精神上的需求不可能提高人们的生活水平。
+
+The arts could demand the requirements of peoples' mental activities. However, the basic needs of people are based on the physical way such as eating, clothing and so on. So only demands peoples mental activities could not improve their life level.
+
+Commonly, humanities are capable of fulfilling the function of enhancement of life standards exclusively, while the most significant factor influencing on life is related to material satisfaction. In this way, satisfying psychological demand fails to improve people's life straightforwardly.
+
+Some people think that...
+Other think that...
+Discuss both views and give your opinion?
+
+主体3段
+
+主体1段：Some people 观点的可行性
+
+Some people think that school choose their students according to abilities, while others think that students with different abilities should learn together. DISCUSS?
+
+主体1 分班对于学习知识的特定影响（some）
+
+主体2 混合班对于知识的特定影响（other）
+
+主体3段： some people/other 二选一/两者都行 
+
+well-behaved children / Students whit good academic performance / achievements / Top students / Weaker students
+
+Grouping students / Streaming education system / get the best understanding of xxx / 
+
+好学生帮助坏学生 - 提高知识认识 / 好学生利用机会加深应用能力 - 提高对于知识认识
+
+Mixed ability classromms provide the interactive environment where all those students are more likely to promote their awareness toward the knowledge.
+
+具体化
+
+To be specific, more specifically, 
+
+On the one hand
+
+On the other hand,
+
+
+
+
+
