@@ -209,4 +209,9 @@ In conclusion, there is no denying that 中心句 1 and 中心句 2 （稍微改
 
 In conclusion, there is no denying that 中心句 1, while 中心句 2 （稍微改一点）- 反对部分
 
-(And therefore,) I beliveve that
+(And therefore,) I beliveve that 立场改写
+
+
+Some people think that spending a long time communicating with others by mobile phones has negative effects on young people' reading and writing abilities. TAD?
+
+
