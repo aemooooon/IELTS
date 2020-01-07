@@ -204,3 +204,5 @@ From my perspective, most of students should choose to study at school as well a
 
 观点总结 + 立场重述
 
+总结主体段落中心句
+In conclusion, there is no denying that 中心句 1 and
