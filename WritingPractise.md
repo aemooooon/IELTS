@@ -172,5 +172,35 @@ On the other hand,
 
 
 
+开头 Introduction
 
+背景引入 + 立场
+
+When referred to as `xxxx`, some opponents claim that 你反对的观点的(句子）， but I think a bit differently.
+
+```
+Educational
+Technological
+Social
+Cultural
+Environmental
+Governmental
+```
+TAD?
+
+When referred to as educational issues, Some opponenets claim that students spend learning time on the internet exclusively. But I think a bit differently.
+
+Discussion?
+
+```
+From my perspective,   
+From my point of view,
+I completely (dis)agree with the point (that 改写)
+```
+
+From my perspective, most of students should choose to study at school as well as on the internet(TAD)
+
+结论段
+
+观点总结 + 立场重述
 
