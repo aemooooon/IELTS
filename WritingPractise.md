@@ -215,3 +215,14 @@ In conclusion, there is no denying that 中心句 1, while 中心句 2 （稍微
 Some people think that spending a long time communicating with others by mobile phones has negative effects on young people' reading and writing abilities. TAD?
 
 
+流程图： 4段式
+
+开头段
+
+主体两端
+
+结尾
+
+时态： 一般现在时
+
+
